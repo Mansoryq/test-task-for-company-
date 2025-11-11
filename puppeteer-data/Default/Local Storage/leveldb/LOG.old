@@ -1,0 +1,9 @@
+2025/11/11-02:23:24.586 3403 Reusing MANIFEST /Users/abylajturganbekov/Desktop/avito-chat-monitor/puppeteer-data/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/11-02:23:24.588 3403 Recovering log #3
+2025/11/11-02:23:24.588 3403 Reusing old log /Users/abylajturganbekov/Desktop/avito-chat-monitor/puppeteer-data/Default/Local Storage/leveldb/000003.log 
+2025/11/11-02:23:52.924 3403 Level-0 table #5: started
+2025/11/11-02:23:52.927 3403 Level-0 table #5: 62004 bytes OK
+2025/11/11-02:23:52.928 3403 Delete type=0 #3
+2025/11/11-13:25:37.005 7e07 Level-0 table #7: started
+2025/11/11-13:25:37.018 7e07 Level-0 table #7: 13310 bytes OK
+2025/11/11-13:25:37.021 7e07 Delete type=0 #4

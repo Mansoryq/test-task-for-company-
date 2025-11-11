@@ -1,0 +1,7 @@
+2025/11/11-19:24:57.917 c003 Reusing MANIFEST /Users/abylajturganbekov/Desktop/avito-chat-monitor/puppeteer-data/Default/IndexedDB/https_www.avito.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/11-19:24:57.917 c003 Recovering log #3
+2025/11/11-19:24:57.918 c003 Reusing old log /Users/abylajturganbekov/Desktop/avito-chat-monitor/puppeteer-data/Default/IndexedDB/https_www.avito.ru_0.indexeddb.leveldb/000003.log 
+2025/11/11-19:24:57.944 27f13 Level-0 table #5: started
+2025/11/11-19:24:57.945 27f13 Level-0 table #5: 7570 bytes OK
+2025/11/11-19:24:57.945 27f13 Delete type=0 #3
+2025/11/11-19:24:57.945 c103 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
